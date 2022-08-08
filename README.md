@@ -1,1 +1,1 @@
-
+Neste projeto implementei algumas method's que fazem leitura e escrita de arquivos JSON, XML e CSV, utilizando a Programação Orientada a Objetos! Implementei um gerador de relatórios que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados.
